@@ -334,11 +334,6 @@ margin-right: 0;
   flex-direction: column;
 }
 
-.footer__column-link {
-  display: flex;
-  flex-direction: column;
-}
-
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
@@ -381,6 +376,8 @@ margin-right: 0;
 .footer__column-link {
   text-decoration: none;
   color: #ffffff;
+  display: flex;
+  flex-direction: column;
 }
 
 .footer__social-icon {
@@ -390,9 +387,6 @@ margin-right: 0;
   list-style-type: disc;
   margin: 0;
   padding-left: 20px;
-}
-
-.footer__social-icon {
   text-decoration: none;
   color: #ffffff;
 }
