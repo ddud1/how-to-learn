@@ -1,0 +1,8 @@
+.feynman__pic {
+    min-height: 637px;
+    min-width: 867px;
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    bottom: 0;
+  }

@@ -1,0 +1,7 @@
+.logo_place_footer {
+    display: flexbox;
+    height: 35px;
+    width: 185px;
+    background: url("../../../images/logo_place_footer.svg");
+    align-items: center;
+  }

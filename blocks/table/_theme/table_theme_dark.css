@@ -1,0 +1,10 @@
+.table_theme_dark {
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    z-index: 2;
+    /*Задала ширину аналогично первому списку проекта, чтобы элементы перенеслись на след строку*/
+    width: 1100px;
+    }
