@@ -1,7 +1,6 @@
 @import url(./__pic/feynman__pic.css);
 @import url(./__link/feynman__link.css);
 @import url(./__subtitle/feynman_subtitle.css);
-@import url(./__title/feynman_title.css);
 
 .feynman {
     position: relative;
