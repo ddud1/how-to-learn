@@ -1,14 +1,14 @@
 .table__cell_theme_dark { 
-  width: 200px; 
-  margin-top: 80px; 
-  align-items: flex-start; 
-  line-height: 1.2; 
-  font-size: 18px; 
-  font-weight: normal; 
+  width: 200px;
+  margin-top: 80px;
+  align-items: flex-start;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
 } 
 
 
 
 .table__cell_theme_dark:nth-child(5), .table__cell_theme_dark:nth-child(10) { 
-  margin-right: 0; 
+  margin-right: 0;
   } 
