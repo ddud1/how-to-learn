@@ -2,7 +2,9 @@
     line-height: 1.15;
     font-size: 18px;
     font-weight: normal;
-    margin-top: 0;
+    margin: 0;
+    margin-top: 20px;
   }
+/* решила не добавлять псевдокласс, а обнулить марджин, т.к. псевдокласс плохо влияет на блок Кауфман */
   
   
